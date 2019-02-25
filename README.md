@@ -11,4 +11,4 @@
 
 <p> My main programming language is java, shocking right. I have experience in HTML, SQL, C#, XML, C, assembly, and python, but the only one that I would say I am proficent in is Java. Since working at CSRA I have become certified in Servicenow Administration for kingston and london patches. My web development experince is mostly QA, however I have done some design and development for web, I mentioned ealier that I have used bootstraping experience, I have designed a website using wordpress which you can find at (www.crowedu.com). </P>
 
-[Code academy profile] (https://www.codecademy.com/ccrow1)
+[Code academy profile](https://www.codecademy.com/ccrow1)
